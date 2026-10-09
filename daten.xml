@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buch>
+    <titel>Datenbanken kompakt</titel>
+    <autoren>
+        <autor>Jörg Meier</autor>
+        <autor>Anna Huber</autor>
+    </autoren>
+    <erscheinungsjahr>2023</erscheinungsjahr>
+    <verfügbar>true</verfügbar>
+    <bewertung/>
+    <genres>
+        <genre>Fachbuch</genre>
+        <genre>Informatik</genre>
+    </genres>
+    <verlag>
+        <name>TechVerlag</name>
+        <ort>Wien</ort>
+    </verlag>
+</buch>

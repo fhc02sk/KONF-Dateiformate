@@ -1,0 +1,12 @@
+{
+  "titel": "Datenbanken kompakt",
+  "autoren": ["Jörg Meier", "Anna Huber"],
+  "erscheinungsjahr": 2023,
+  "verfügbar": true,
+  "bewertung": null,
+  "genres": ["Fachbuch", "Informatik"],
+  "verlag": {
+    "name": "TechVerlag",
+    "ort": "Wien"
+  }
+}
